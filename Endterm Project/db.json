@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Mayank",
+      "address": "Chitkara University",
+      "email": "mayank@gmail.com",
+      "phone": "9999999999",
+      "website": "101",
+      "img": "Fever",
+      "id": 1
+    }
+  ]
+}

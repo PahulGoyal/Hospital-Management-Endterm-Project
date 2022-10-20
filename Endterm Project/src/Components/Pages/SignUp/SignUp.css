@@ -1,0 +1,86 @@
+#Ccontainer{
+    border: 2px solid black;
+    background-color:azure;
+    display: flex;
+    justify-content: center;
+    font-family: "Neue-Helvetica", "Helvetica", "Arial", sans-serif;
+    background-image: url("./Image/Patients.jpg");
+    background-repeat: norepeat;
+    background-size: cover;
+    
+}
+#Scontainer{
+    border:2px solid black;
+    width: 700px;
+    height: 675px;;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    box-shadow: 2px 3px 10px #f5f5f5b5;
+}
+
+#Scontainer h3{
+    text-align: center;
+    margin-top: 41px;
+}
+
+#USname{
+    /* border: 2px solid black; */
+    margin-left: 115px;
+    margin-top: 50px;
+}
+
+#Passw{
+    /* border: 2px solid black; */
+    margin-top: 25px;
+    margin-left: 115px;
+}
+
+#Passwo{
+    margin-top: 25px;
+    margin-left: 115px;
+}
+
+#Email{
+    margin-left: 115px;
+    margin-top: 30px;
+}
+
+#Password{
+    margin-left: 103px;
+    padding: 3px 4px;
+    outline: none;
+}
+
+#reP{
+    margin-left: 47px;
+    padding: 3px 4px;
+    outline: none;
+}
+#enteremail{
+    margin-left: 134px;
+}
+#userName{
+    margin-left: 100px;
+    padding: 3px 4px;
+    outline: none;
+}
+input{
+    border: none;
+    border-bottom: 2px solid black;
+    
+}
+
+#lbtn{
+    margin: 80px 264px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 170px;
+}
+
+#lbtn:hover{
+    /* background-image: linear-gradient(70deg , rgb(181, 8, 181) , rgb(72, 72, 255)); */
+    background-image: linear-gradient(50deg , rgb(117 117 255 / 39%) , rgb(255 207 215 / 36%));
+
+    color: whitesmoke;
+}

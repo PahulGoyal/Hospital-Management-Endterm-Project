@@ -1,0 +1,19 @@
+.Hcontainer{
+    /* border: 2px solid black; */
+    background-image: url("./Image/hospitalbuilding.png");
+    /* background-image: linear-gradient( 30deg , blue , pink); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 693px;
+    display: flex;
+    align-items: center;
+}
+
+#Hpara{
+ /* border: 2px solid black; */
+ text-align: center;
+ font-size: 100px;
+ color: white;
+ font-weight: 100;
+}

@@ -1,0 +1,24 @@
+#ccontainer
+{
+    /* border: 2px solid black; */
+    height: 694px;
+    width: 1500px;
+    background-image: url("./Image/World.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+#ccontainer h2{
+    margin-left: 100px;
+}
+
+.map{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.address{
+    margin-left: 100px;
+}
+#box{
+    background-color: white;
+    margin-right: 750px;
+}
